@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Example test run" duration-ms="6133" started-at="2018-09-25T11:18:37Z" finished-at="2018-09-25T11:18:43Z">
+    <groups>
+    </groups>
+    <test name="Simple Test 1" duration-ms="6133" started-at="2018-09-25T11:18:37Z" finished-at="2018-09-25T11:18:43Z">
+      <class name="Parallel_Testing_2.Parallel_Testing_2.Test2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Parallel_Testing_2.Parallel_Testing_2.Test2@49e4cb85]" name="beforeMethod" is-config="true" duration-ms="4928" started-at="2018-09-25T16:48:37Z" finished-at="2018-09-25T16:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:Parallel_Testing_2.Parallel_Testing_2.Test2@49e4cb85]" name="main" duration-ms="65" started-at="2018-09-25T16:48:42Z" finished-at="2018-09-25T16:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Parallel_Testing_2.Parallel_Testing_2.Test2@49e4cb85]" name="afterMethod" is-config="true" duration-ms="1128" started-at="2018-09-25T16:48:42Z" finished-at="2018-09-25T16:48:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Parallel_Testing_2.Parallel_Testing_2.Test2 -->
+    </test> <!-- Simple Test 1 -->
+  </suite> <!-- Example test run -->
+</testng-results>
